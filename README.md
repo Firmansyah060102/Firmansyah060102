@@ -4,7 +4,7 @@
      and I'm majoring in Software Engineering
 - 💞️ I want to collaborate with all of you,
  and be able to learn and learn more about web programming
-- 📫 you can contact me via my Instagram account
+- 📫 you can contact me via my Instagram account https://www.instagram.com/fiirman0601/
 
 <!---
 Firmansyah060102/Firmansyah060102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
